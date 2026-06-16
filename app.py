@@ -1,5 +1,7 @@
 import streamlit as st
 
+st.image("beach_photo.jpg", use_container_width=True)
+
 # Tiêu đề ứng dụng
 st.title("Ứng dụng tính tiền gửi tiết kiệm_Ta Kim Hieu")
 
