@@ -1,4 +1,11 @@
 import streamlit as st
+
+image_url = "https://drive.google.com/uc?export=view&id=1uYyJ3qEpb6mHT9T85ZfHQVu5fs4E0YNd"
+
+st.image(image_url, use_container_width=True)
+
+st.title("Ứng dụng tính tiền gửi tiết kiệm_Ta Kim Hieu")
+import streamlit as st
 # Tiêu đề ứng dụng
 st.title("Ứng dụng tính tiền gửi tiết kiệm_Ta Kim Hieu")
 
